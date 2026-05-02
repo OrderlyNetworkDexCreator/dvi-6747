@@ -32,7 +32,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
   "VITE_SEO_THEME_COLOR": "#000000",
-  "VITE_SEO_KEYWORDS": "dex, crypto, rwa, trading, defi, orderly, dvi, investing, market",
+  "VITE_SEO_KEYWORDS": "dex, crypto, rwa, trading, defi, orderly, investing",
   "VITE_AVAILABLE_LANGUAGES": "en,tc,es,vi,fr,id,it,uk,nl,zh,ja,ko,de,ru,tr,pt,pl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
